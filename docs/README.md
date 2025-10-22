@@ -36,6 +36,11 @@ The script also uses `INSERT IGNORE` (in the `scripts/load_data.py` file) and `C
 ---
 
 ## After Execution Glimpse
+## After Execution Glimpse
+![Terminal Output Screenshot](https://github.com/animeshbhatt651/Data-Engineering-Assessment/blob/main/Snapshots/Screenshot%202025-10-23%20at%2002.07.15.png)
+
+![Terminal Output Screenshot](https://github.com/animeshbhatt651/Data-Engineering-Assessment/blob/main/Snapshots/Screenshot%202025-10-23%20at%2003.15.10.png)
+
 
 Here is the terminal output after a successful ETL run, showing the records being processed and loaded.
 
@@ -69,8 +74,6 @@ All data loaded successfully.
 ETL process finished.
 
 ---
-## After Execution Glimpse
-![Terminal Output Screenshot](./images/terminal-output.png)
 
 
 ## Getting Started
